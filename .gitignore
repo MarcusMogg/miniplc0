@@ -4,3 +4,5 @@ CMakeSettings.json
 *.txt
 !CMakeLists.txt
 build
+CMakeBuilds
+t
